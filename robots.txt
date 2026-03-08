@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://scideloandriasahy-bot.github.io/al-folio/sitemap.xml
+Sitemap: https://scideloandriasahy-bot.github.io/sitemap.xml
